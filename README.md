@@ -19,3 +19,5 @@ Everyone is welcome to contribute to projects or create new ones.
 [Self spreading python virus](https://maldev101.github.io/Self-Spreading-Virus./)
 
 [Ransomware](https://maldev101.github.io/Ransomware/)
+
+[Net-Worm](https://maldev101.github.io/Net-Worm/)
